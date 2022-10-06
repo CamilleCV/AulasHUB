@@ -1,1 +1,1 @@
-..
+Tentando editar pelo VSCode.
