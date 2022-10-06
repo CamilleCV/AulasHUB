@@ -1,3 +1,3 @@
 Tentando editar pelo VSCode
-#Para Salvar, use #S
+ln Para Salvar, use CTRL + S
 
